@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shawbraiz
+- 👀 I’m interested in learning more about web development and business analytics.
+- 🌱 I’m currently learning business analytics using R tool.
+- 💞️ I’m looking to collaborate on small projects in data analytics.
+- 📫 How to reach me: https://www.linkedin.com/in/shawbraiz-ahamed-0503776b/
